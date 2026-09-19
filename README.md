@@ -1,1 +1,2 @@
-# Caso_de_Teste
+# PROJETO, IMPLEMENTAÇÃO E TESTE DE SOFTWARE:
+Atividades da disciplina.
